@@ -1,0 +1,14 @@
+@import url("./root.css");
+
+.container-card {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.car-container{
+    margin: 250px;
+}
+

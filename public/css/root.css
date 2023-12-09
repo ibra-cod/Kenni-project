@@ -1,0 +1,16 @@
+/****** ROOT VARIABLES *******/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;700;800&family=Poppins:wght@300;400;500;600;900&display=swap');
+:root {
+    --btn-color-violet: #9003FF;
+    --btn-color-black: #9003FF;
+    --background-and-nav-color: #9003FF;
+    --placeholder-color : #6B6B6B;
+    --text-black-color : #000000;
+    --text-color-white : #FFFFFF;
+    --text-grey-color : #DCDCDC;
+    --font-family : "inter" , sans-serif;
+    --font-weight: 400;
+
+}
+
+/****** END ROOT VARIABLES *******/
